@@ -37,7 +37,7 @@ http://landiptv.live:8080/live/ge/test1/63712.ts
 http://landiptv.live:8080/live/ge/test1/99695.ts
 #EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Folklorit
 http://landiptv.live:8080/live/ge/test1/63713.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",BBF MUSIC TVf
+#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",BBF MUSIC TV
 http://landiptv.live:8080/live/ge/test1/117524.ts
 #EXTINF:0 tvg-id="MyMusic.al" group-title="ALBANIAN",My Music
 http://landiptv.live:8080/live/ge/test1/63725.ts
