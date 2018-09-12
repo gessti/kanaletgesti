@@ -305,21 +305,21 @@ http://landiptv.live:8080/live/ge/test1/63500.ts
 http://landiptv.live:8080/live/ge/test1/63577.ts
 #EXTINF:0 tvg-id="EXPShkence.al" group-title="ALBANIAN",Sky Shkence
 http://landiptv.live:8080/live/ge/test1/63602.ts
-#EXTINF:0 tvg-id="ext" group-title="Not working",Blue Hustler
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/96540.ts
-#EXTINF:0 tvg-id="Brazzers.ero" group-title="Not working",Brazzers TV Europe
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/66672.ts
-#EXTINF:0 tvg-id="BungaBunga.al" group-title="Not working",Babestation
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/103820.ts
-#EXTINF:0 tvg-id="ext" group-title="Not working",Exotica
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/103449.ts
-#EXTINF:0 tvg-id="ext" group-title="Not working",Cento x Cento
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/107907.ts
-#EXTINF:0 tvg-id="Dorcel.ero" group-title="Not working",Dorcel TV
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/96551.ts
-#EXTINF:0 tvg-id="Eroxxx.ero" group-title="Not working",Erox HD
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/99498.ts
-#EXTINF:0 tvg-id="ext" group-title="Not working",Jasmin TV
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/93725.ts
-#EXTINF:0 tvg-id="HustlerHD.ero" group-title="Not working",Hustler
-http://landiptv.live:8080/live/84fUY64BR2/SdNOD6RLu3/93283.ts
+#EXTINF:0 tvg-id="ext" group-title="NotWorking",Blue Hustler
+http://landiptv.live:8080/live/ge/test1/96540.ts
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="NotWorking",Brazzers TV Europe
+http://landiptv.live:8080/live/ge/test1/66672.ts
+#EXTINF:0 tvg-id="BungaBunga.al" group-title="NotWorking",Babestation
+http://landiptv.live:8080/live/ge/test1/103820.ts
+#EXTINF:0 tvg-id="ext" group-title="NotWorking",Exotica
+http://landiptv.live:8080/live/ge/test1/103449.ts
+#EXTINF:0 tvg-id="ext" group-title="NotWorking",Cento x Cento
+http://landiptv.live:8080/live/ge/test1/107907.ts
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="NotWorking",Dorcel TV
+http://landiptv.live:8080/live/ge/test1/96551.ts
+#EXTINF:0 tvg-id="Eroxxx.ero" group-title="NotWorking",Erox HD
+http://landiptv.live:8080/live/ge/test1/99498.ts
+#EXTINF:0 tvg-id="ext" group-title="NotWorking",Jasmin TV
+http://landiptv.live:8080/live/ge/test1/93725.ts
+#EXTINF:0 tvg-id="HustlerHD.ero" group-title="NotWorking",Hustler
+http://landiptv.live:8080/live/ge/test1/93283.ts
