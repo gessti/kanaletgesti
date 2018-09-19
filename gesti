@@ -1,305 +1,311 @@
-#EXTM3U
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="ALBANIAN",TOP Channel HD
+#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/2000px-Top_Channel.svg.png" ,Top Channel
 http://landiptv.live:8080/live/1234567/123456788/63779.ts
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="ALBANIAN",Klan HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png" ,Klan TV HD
 http://landiptv.live:8080/live/1234567/123456788/63775.ts
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="ALBANIAN",Klan Kosova HD
+#EXTINF:0 tvg-logo="http://albepg.com/tvlogi/Klan%20Kosova.png" ,Klan Kosova
 http://landiptv.live:8080/live/1234567/123456788/63790.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Klan Plus HD
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/8Y0RBb6o70U/hqdefault.jpg" ,Klan Plus
 http://landiptv.live:8080/live/1234567/123456788/63774.ts
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="ALBANIAN",Vizion Plus HD
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Logo_ok.png/revision/latest?cb=20170912115233" ,Vizion Plus
 http://landiptv.live:8080/live/1234567/123456788/63778.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Vizion Plus Toksor FHD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1039px-Vizion_Plus.svg.png" ,Vizion Plus HD
 http://landiptv.live:8080/live/1234567/123456788/63777.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",7 News
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png" ,Top News
 http://landiptv.live:8080/live/1234567/123456788/101107.ts
-#EXTINF:0 tvg-id="ABCNews.al" group-title="ALBANIAN",ABC News HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ABC_News_%28Albania%29.svg/2000px-ABC_News_%28Albania%29.svg.png" ,ABC News
 http://landiptv.live:8080/live/1234567/123456788/63686.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Channel ONE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Channel_One_%28Albania%29.svg/2000px-Channel_One_%28Albania%29.svg.png" ,Channel ONE
 http://landiptv.live:8080/live/1234567/123456788/63773.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",A1 Report
+#EXTINF:0 tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/A1-Report.png" ,A1 Report
 http://landiptv.live:8080/live/1234567/123456788/95626.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Era HD
+#EXTINF:0 tvg-logo="https://www.firstonetv.net/images/logos/mk/ERA.png" ,Era TV
 http://landiptv.live:8080/live/1234567/123456788/63694.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",News 24
+#EXTINF:0 tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ScanRtvTV_logo_5ac42b75a565d.png" ,Scan TV
+http://landiptv.live:8080/live/1234567/123456788/63683.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/2000px-News_24_%28Albania%29.svg.png" ,News 24
 http://landiptv.live:8080/live/1234567/123456788/63688.ts
-#EXTINF:0 tvg-id="OraNews.al" group-title="ALBANIAN",ORA News HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/1280px-Ora_News_%28Albania%29.svg.png" ,ORA News
 http://landiptv.live:8080/live/1234567/123456788/63685.ts
-#EXTINF:0 tvg-id="AlsatM.al" group-title="ALBANIAN",Alsat M HD
+#EXTINF:0 tvg-logo="http://gasinet.altervista.org/wp-content/uploads/2017/09/Alsat_M.svg_.png" ,Alsat M
 http://landiptv.live:8080/live/1234567/123456788/63755.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",TV Koha HD
+#EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/4/e/4/4e476bb1969bd3cf0675dd52261cc7be_icon.png?w=240" ,TV Koha HD
 http://landiptv.live:8080/live/1234567/123456788/63762.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Dibra TV
+#EXTINF:0 tvg-logo="https://ulango.tv/uploads/channels/3780801/logo_dibra%20tv.png" ,Dibra TV
 http://landiptv.live:8080/live/1234567/123456788/63703.ts
-#EXTINF:0 tvg-id="STVFolk.al" group-title="ALBANIAN",STV Folk
+#EXTINF:0 tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/STV-Folk.jpg" ,STV Folk
 http://landiptv.live:8080/live/1234567/123456788/63712.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",SUPER FOLK
+#EXTINF:0 tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/STV-Folk.jpg" ,SUPER FOLK
 http://landiptv.live:8080/live/1234567/123456788/99695.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Folklorit
+#EXTINF:0 tvg-logo="http://nextgen-iptv.com/Logos/alb/folklorit.png" ,Folklorit
 http://landiptv.live:8080/live/1234567/123456788/63713.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",BBF MUSIC TVf
+#EXTINF:0 tvg-logo="https://cdn-005.mobile2morrow.com/wp-content/uploads/2017/05/bbf.png?x60267" ,BBF
 http://landiptv.live:8080/live/1234567/123456788/117524.ts
-#EXTINF:0 tvg-id="MyMusic.al" group-title="ALBANIAN",My Music
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/My-Music-logo.jpg" ,My Music
 http://landiptv.live:8080/live/1234567/123456788/63725.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ALB MUSIC
+#EXTINF:0 tvg-logo="http://albepg.com/tvlogi/Club%20TV.png" ,Club TV
+http://landiptv.live:8080/live/ermirmani/maniermir/63723.ts
+#EXTINF:0 tvg-logo="http://albepg.com/tvlogi/ALB%20MUSIC%20HD.png" ,ALB MUSIC HD
 http://landiptv.live:8080/live/1234567/123456788/63750.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",MTV Base
+#EXTINF:0 tvg-logo="http://picon.space/dasmatv.png" ,Dasma TV
+http://landiptv.live:8080/live/1234567/123456788/63391.ts
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png/revision/latest?cb=20111124002006" ,MTV Base
 http://landiptv.live:8080/live/1234567/123456788/93938.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",MTV Brand New
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/MTV_Brand_New.svg/1200px-MTV_Brand_New.svg.png" ,MTV Brand New
 http://landiptv.live:8080/live/1234567/123456788/63739.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",MTV HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/2000px-MTV_HD_Logo_2013.svg.png" ,MTV HD
 http://landiptv.live:8080/live/1234567/123456788/63738.ts
-#EXTINF:0 tvg-id="MTVLiveHD.al" group-title="ALBANIAN",MTV Live HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Live_HD_2011.svg/250px-MTV_Live_HD_2011.svg.png" ,MTV Live HD
 http://landiptv.live:8080/live/1234567/123456788/94790.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",SuperSport News
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%20News.png" ,SuperSport News
 http://landiptv.live:8080/live/1234567/123456788/94075.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",SuperSport 2
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-Q8ShPT1VXA0/WJHfEgQg1kI/AAAAAAAACcM/wZGD0OZjTM8rzjuHJ8BM8pcZXdooG_X4ACLcB/s1600/ss2hd.png" ,SuperSport 2
 http://landiptv.live:8080/live/1234567/123456788/94076.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",SuperSport 3
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/SS3HD-Albania.png/revision/latest?cb=20160805102903" ,SuperSport 3
 http://landiptv.live:8080/live/1234567/123456788/94077.ts
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="ALBANIAN",Super Sport 1 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" ,SuperSport 1 HD
 http://landiptv.live:8080/live/1234567/123456788/63353.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Super Sport 2 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" ,SuperSport 2 HD
 http://landiptv.live:8080/live/1234567/123456788/63352.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Super Sport 3 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" ,SuperSport 3 HD
 http://landiptv.live:8080/live/1234567/123456788/63351.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Super Sport 4 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" ,SuperSport 4 HD
 http://landiptv.live:8080/live/1234567/123456788/63350.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Super Sport 5 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" ,SuperSport 5 HD
 http://landiptv.live:8080/live/1234567/123456788/63349.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Super Sport 6 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png" ,SuperSport 6 HD
 http://landiptv.live:8080/live/1234567/123456788/94049.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Super Sport 7 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%207.png" ,SuperSport 7 HD
 http://landiptv.live:8080/live/1234567/123456788/126168.ts
-#EXTINF:0 tvg-id="TS1HD.al" group-title="ALBANIAN",Tring Sport 1 FHD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" ,TringSport 1 HD
 http://landiptv.live:8080/live/1234567/123456788/63346.ts
-#EXTINF:0 tvg-id="TS2HD.al" group-title="ALBANIAN",Tring Sport 2 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" ,TringSport 2 HD
 http://landiptv.live:8080/live/1234567/123456788/63345.ts
-#EXTINF:0 tvg-id="TS3HD.al" group-title="ALBANIAN",Tring Sport 3 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" ,TringSport 3 HD
 http://landiptv.live:8080/live/1234567/123456788/78436.ts
-#EXTINF:0 tvg-id="TS4HD.al" group-title="ALBANIAN",Tring Sport 4 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png" ,TringSport 4 HD
 http://landiptv.live:8080/live/1234567/123456788/78437.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",RTSH Sport HD
+#EXTINF:0 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/rtshsport.png" ,RTSH Sport
 http://landiptv.live:8080/live/1234567/123456788/94062.ts
-#EXTINF:0 tvg-id="KlanTV.al" group-title="ALBANIAN",RTSH 1
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad/images/f/fb/2000px-RTSH_logo_%282017%29.svg.png/revision/latest?cb=20180130012305" ,RTSH 1
 http://landiptv.live:8080/live/1234567/123456788/109247.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",RTSH 3 HD
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/RTSH3_large.png/revision/latest?cb=20170325165310" ,RTSH 3 HD
 http://landiptv.live:8080/live/1234567/123456788/63785.ts
-#EXTINF:0 tvg-id="CufoTV.al" group-title="ALBANIAN",ÇUFO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cufo_TV.png" ,CUFO TV
 http://landiptv.live:8080/live/1234567/123456788/63649.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Bang Bang HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png" ,Bang Bang
 http://landiptv.live:8080/live/1234567/123456788/63650.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",BARBIE TV (SHQIP)
+#EXTINF:0 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/logo-barbie-png-5.png" ,BARBIE TV (SHQIP)
 http://landiptv.live:8080/live/1234567/123456788/125074.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Masha dhe Ariu
+#EXTINF:0 tvg-logo="http://www.stickpng.com/assets/images/5a3147c8cb9a85480a628f2e.png" ,Masha dhe Ariu
 http://landiptv.live:8080/live/1234567/123456788/63617.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",MR BEAN (cartoon)
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Mr._Bean_%28animated_TV_series%29_logo.svg.png/revision/latest?cb=20150902183956" ,MR BEAN (cartoon)
 http://landiptv.live:8080/live/1234567/123456788/93948.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",TOM&JERRY HD
+#EXTINF:0 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG24.png" ,TOM&JERRY HD
 http://landiptv.live:8080/live/1234567/123456788/109282.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Nick Junior HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" ,Nick Junior HD
 http://landiptv.live:8080/live/1234567/123456788/63628.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Nick Toons
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/2000px-Nicktoons_2014_logo.svg.png" ,Nick Toons
 http://landiptv.live:8080/live/1234567/123456788/93947.ts
-#EXTINF:0 tvg-id="TipTv.al" group-title="ALBANIAN",Tip TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png" ,Tip TV
 http://landiptv.live:8080/live/1234567/123456788/63643.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ZJARR HD
+#EXTINF:0 tvg-logo="http://zjarr.tv/wp-content/uploads/2016/02/logo2.png" ,Zjarr TV
 http://landiptv.live:8080/live/1234567/123456788/63749.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",T Shqip
+#EXTINF:0 tvg-logo="http://ulango.tv/uploads/channels/3788185/logo_in%20cinemania.png" ,IN TV
+http://landiptv.live:8080/live/1234567/123456788/126158.ts
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png" ,T Shqip
 http://landiptv.live:8080/live/1234567/123456788/117443.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",FILM Aksion HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" ,Film Aksion
 http://landiptv.live:8080/live/1234567/123456788/63550.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",FILM AUTOR HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png" ,Film Autor
 http://landiptv.live:8080/live/1234567/123456788/117440.ts
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="ALBANIAN",FILM KOMEDI
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png" ,Film Komedi
 http://landiptv.live:8080/live/1234567/123456788/117439.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",FILM DRAME HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png" ,Film Drame
 http://landiptv.live:8080/live/1234567/123456788/99656.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",FILM Thriller HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" ,FILM Thriller
 http://landiptv.live:8080/live/1234567/123456788/63548.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",FILM Eurofilm
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png" ,EUROFILM
 http://landiptv.live:8080/live/1234567/123456788/63553.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Film Family HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png" ,Family HD
 http://landiptv.live:8080/live/1234567/123456788/63558.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",FILM Hits HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" ,Film Hits
 http://landiptv.live:8080/live/1234567/123456788/63551.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",FILM Stinet HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Stinet.png" ,Stinet
 http://landiptv.live:8080/live/1234567/123456788/95647.ts
-#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="ALBANIAN",Film Nje FHD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" ,Film Nje HD
 http://landiptv.live:8080/live/1234567/123456788/95645.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",DIGI Gold 1 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png" ,Digi Gold 1
 http://landiptv.live:8080/live/1234567/123456788/63509.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Digi Gold 2 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%202.png" ,Digi Gold 2
 http://landiptv.live:8080/live/1234567/123456788/117461.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",DIGI Gold 3 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%203.png" ,Digi Gold 3
 http://landiptv.live:8080/live/1234567/123456788/63512.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",FILM GOLD 4 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%204.png" ,Digi Gold 4
 http://landiptv.live:8080/live/1234567/123456788/109272.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Filma24 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Filma24%20HD.png" ,Filma24 HD
 http://landiptv.live:8080/live/1234567/123456788/63504.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",EXPLORER NATYRA
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png" ,EXPLORER Natyra
 http://landiptv.live:8080/live/1234567/123456788/102082.ts
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="ALBANIAN",EXPLORER SHKENCE
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png" ,EXPLORER Shkence
 http://landiptv.live:8080/live/1234567/123456788/63608.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring 3 HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png" ,EXPLORER Histori
+http://landiptv.live:8080/live/1234567/123456788/100546.ts
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png" ,3 plus
 http://landiptv.live:8080/live/1234567/123456788/63579.ts
-#EXTINF:0 tvg-id="3Plus.al" group-title="ALBANIAN",Tring 3 Plus
-http://landiptv.live:8080/live/1234567/123456788/95649.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Action
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" ,Tring Action
 http://landiptv.live:8080/live/1234567/123456788/63537.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Komedi HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png" ,Tring Comedy
 http://landiptv.live:8080/live/1234567/123456788/63536.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Fantasy HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" ,Tring Fantasy
 http://landiptv.live:8080/live/1234567/123456788/63535.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring HistorI
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png" ,Tring History
 http://landiptv.live:8080/live/1234567/123456788/112380.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Kids
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png" ,Tring Kids
 http://landiptv.live:8080/live/1234567/123456788/63647.ts
-#EXTINF:0 tvg-id="TringLife.al" group-title="ALBANIAN",Tring Life HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png" ,Tring Life
 http://landiptv.live:8080/live/1234567/123456788/63534.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",TRING LIVING HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" ,Living HD
 http://landiptv.live:8080/live/1234567/123456788/99704.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Max HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Max.png" ,Tring Max
 http://landiptv.live:8080/live/1234567/123456788/78435.ts
-#EXTINF:0 tvg-id="JollyHD.al" group-title="ALBANIAN",Jolly FHD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png" ,Jolly HD
 http://landiptv.live:8080/live/1234567/123456788/63539.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Muse
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Muse.png" ,Muse
 http://landiptv.live:8080/live/1234567/123456788/63575.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Planet HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png" ,Tring Planet
 http://landiptv.live:8080/live/1234567/123456788/63604.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",TRING SHQIP HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" ,Tring Shqip
 http://landiptv.live:8080/live/1234567/123456788/63541.ts
-#EXTINF:0 tvg-id="Smile.al" group-title="ALBANIAN",Tring Smile
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Smile.png" ,Smile
 http://landiptv.live:8080/live/1234567/123456788/63576.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",TRING SOFIA HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sofia.png" ,Sofia
 http://landiptv.live:8080/live/1234567/123456788/99705.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Stinet
-http://landiptv.live:8080/live/1234567/123456788/110595.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Super FHD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" ,Tring Super
 http://landiptv.live:8080/live/1234567/123456788/63538.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Tring Tring HD
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/7/7d/Tring_Tring_Logo.png/revision/latest?cb=20161025101126" ,Tring Tring
 http://landiptv.live:8080/live/1234567/123456788/63648.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS AKSION
+#EXTINF:0 tvg-logo="" ,KS AKSION
 http://landiptv.live:8080/live/1234567/123456788/93967.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS COMEDY
+#EXTINF:0 tvg-logo="" ,KS COMEDY
 http://landiptv.live:8080/live/1234567/123456788/125095.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS DRAMA
+#EXTINF:0 tvg-logo="" ,KS DRAMA
 http://landiptv.live:8080/live/1234567/123456788/125094.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS FËMIJË
+#EXTINF:0 tvg-logo="" ,KS FËMIJË
 http://landiptv.live:8080/live/1234567/123456788/63610.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS FËMIJË (English)
+#EXTINF:0 tvg-logo="" ,KS FËMIJË (English)
 http://landiptv.live:8080/live/1234567/123456788/93945.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS Gold 1 HD
+#EXTINF:0 tvg-logo="" ,KS Gold 1 HD
 http://landiptv.live:8080/live/1234567/123456788/120293.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS Gold 2 HD
+#EXTINF:0 tvg-logo="" ,KS Gold 2 HD
 http://landiptv.live:8080/live/1234567/123456788/120294.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS Gold 3 HD
+#EXTINF:0 tvg-logo="" ,KS Gold 3 HD
 http://landiptv.live:8080/live/1234567/123456788/120295.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS GOLD 4 HD
+#EXTINF:0 tvg-logo="" ,KS GOLD 4 HD
 http://landiptv.live:8080/live/1234567/123456788/99682.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS HINDI HD
+#EXTINF:0 tvg-logo="" ,KS HINDI HD
 http://landiptv.live:8080/live/1234567/123456788/122410.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS Histori HD
+#EXTINF:0 tvg-logo="" ,KS Histori HD
 http://landiptv.live:8080/live/1234567/123456788/125077.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS HITS
+#EXTINF:0 tvg-logo="" ,KS HITS
 http://landiptv.live:8080/live/1234567/123456788/63700.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS HORROR
+#EXTINF:0 tvg-logo="" ,KS HORROR
 http://landiptv.live:8080/live/1234567/123456788/93968.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS HUMOR HD
+#EXTINF:0 tvg-logo="" ,KS HUMOR HD
 http://landiptv.live:8080/live/1234567/123456788/63515.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS KIDS
+#EXTINF:0 tvg-logo="" ,KS KIDS
 http://landiptv.live:8080/live/1234567/123456788/122408.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS MUZIK
+#EXTINF:0 tvg-logo="" ,KS MUZIK
 http://landiptv.live:8080/live/1234567/123456788/122406.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS POPULLORE HD
+#EXTINF:0 tvg-logo="" ,KS POPULLORE HD
 http://landiptv.live:8080/live/1234567/123456788/122405.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS PRANKS
+#EXTINF:0 tvg-logo="" ,KS PRANKS
 http://landiptv.live:8080/live/1234567/123456788/122404.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS PREMIER 1 HD
+#EXTINF:0 tvg-logo="" ,KS PREMIER 1 HD
 http://landiptv.live:8080/live/1234567/123456788/122398.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS PREMIER 2 HD
+#EXTINF:0 tvg-logo="" ,KS PREMIER 2 HD
 http://landiptv.live:8080/live/1234567/123456788/122399.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS PREMIER 3 HD
+#EXTINF:0 tvg-logo="" ,KS PREMIER 3 HD
 http://landiptv.live:8080/live/1234567/123456788/122400.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS PREMIER 4 HD
+#EXTINF:0 tvg-logo="" ,KS PREMIER 4 HD
 http://landiptv.live:8080/live/1234567/123456788/122401.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS SERIAL HD
+#EXTINF:0 tvg-logo="" ,KS SERIAL HD
 http://landiptv.live:8080/live/1234567/123456788/93969.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS SERIES HD
+#EXTINF:0 tvg-logo="" ,KS SERIES HD
 http://landiptv.live:8080/live/1234567/123456788/122402.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS Shkencë HD
+#EXTINF:0 tvg-logo="" ,KS Shkencë HD
 http://landiptv.live:8080/live/1234567/123456788/125076.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",KS SHQIP
+#EXTINF:0 tvg-logo="" ,KS SHQIP
 http://landiptv.live:8080/live/1234567/123456788/93966.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Action HD
+#EXTINF:0 tvg-logo="" ,Alb Action HD
 http://landiptv.live:8080/live/1234567/123456788/63496.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Anime
+#EXTINF:0 tvg-logo="" ,Alb Anime
 http://landiptv.live:8080/live/1234567/123456788/95642.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Comedy
+#EXTINF:0 tvg-logo="" ,Alb Comedy
 http://landiptv.live:8080/live/1234567/123456788/95669.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Film
+#EXTINF:0 tvg-logo="" ,Alb Film
 http://landiptv.live:8080/live/1234567/123456788/63497.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Folk HD
+#EXTINF:0 tvg-logo="" ,Alb Folk HD
 http://landiptv.live:8080/live/1234567/123456788/63428.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ALB HINDI HD
+#EXTINF:0 tvg-logo="" ,ALB HINDI HD
 http://landiptv.live:8080/live/1234567/123456788/63494.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Hits
+#EXTINF:0 tvg-logo="" ,Alb Hits
 http://landiptv.live:8080/live/1234567/123456788/63442.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Horror HD
+#EXTINF:0 tvg-logo="" ,Alb Horror HD
 http://landiptv.live:8080/live/1234567/123456788/63677.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ALB Humor 1 HD
+#EXTINF:0 tvg-logo="" ,ALB Humor 1 HD
 http://landiptv.live:8080/live/1234567/123456788/63490.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ALB Humor 2 HD
+#EXTINF:0 tvg-logo="" ,ALB Humor 2 HD
 http://landiptv.live:8080/live/1234567/123456788/63489.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Islam
+#EXTINF:0 tvg-logo="" ,Alb Islam
 http://landiptv.live:8080/live/1234567/123456788/63404.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Alb Kids
+#EXTINF:0 tvg-logo="" ,Alb Kids
 http://landiptv.live:8080/live/1234567/123456788/78386.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ALB POPULLORE
+#EXTINF:0 tvg-logo="" ,ALB POPULLORE
 http://landiptv.live:8080/live/1234567/123456788/99645.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ALB UK HD
+#EXTINF:0 tvg-logo="" ,ALB UK HD
 http://landiptv.live:8080/live/1234567/123456788/93964.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ALB WESTERN HD
+#EXTINF:0 tvg-logo="" ,ALB WESTERN HD
 http://landiptv.live:8080/live/1234567/123456788/63491.ts
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="ALBANIAN",ShqipTV AKSION HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Aksion.png" ,SHQIPTV Aksion
 http://landiptv.live:8080/live/1234567/123456788/78412.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Cinema HD
+#EXTINF:0 tvg-logo="" ,SHQIPTV Cinema
 http://landiptv.live:8080/live/1234567/123456788/78413.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",SHQIPTV DRAMA HD
+#EXTINF:0 tvg-logo="" ,SHQIPTV DRAMA HD
 http://landiptv.live:8080/live/1234567/123456788/122412.ts
-#EXTINF:0 tvg-id="TringFantazi.al" group-title="ALBANIAN",ShqipTV Fantasy HD
+#EXTINF:0 tvg-logo="" ,ShqipTV Fantasy HD
 http://landiptv.live:8080/live/1234567/123456788/78421.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Film HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Film.png" ,SHQIPTV Film
 http://landiptv.live:8080/live/1234567/123456788/63477.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV FOLK HD
+#EXTINF:0 tvg-logo="" ,ShqipTV FOLK HD
 http://landiptv.live:8080/live/1234567/123456788/109280.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Horror HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Horror.png" ,SHQIPTV Horror
 http://landiptv.live:8080/live/1234567/123456788/78414.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Humor HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Humor.png" ,SHQIPTV Humor
 http://landiptv.live:8080/live/1234567/123456788/63484.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Islam HD
+#EXTINF:0 tvg-logo="" ,ShqipTV Islam HD
 http://landiptv.live:8080/live/1234567/123456788/117465.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Jeta HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Jeta.png" ,SHQIPTV Jeta
 http://landiptv.live:8080/live/1234567/123456788/63437.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Komedi HD
+#EXTINF:0 tvg-logo="" ,ShqipTV Komedi HD
 http://landiptv.live:8080/live/1234567/123456788/78415.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Mimi HD
+#EXTINF:0 tvg-logo="" ,ShqipTV Mimi HD
 http://landiptv.live:8080/live/1234567/123456788/63638.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Qifteli HD
+#EXTINF:0 tvg-logo="" ,ShqipTV Qifteli HD
 http://landiptv.live:8080/live/1234567/123456788/117466.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",ShqipTV Stupcat HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Stupcat.png" ,SHQIPTV Stupcat
 http://landiptv.live:8080/live/1234567/123456788/93991.ts
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="ALBANIAN",Sky Aksion
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png" ,Sky Aksion
 http://landiptv.live:8080/live/1234567/123456788/63501.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Sky Dramë
+#EXTINF:0 tvg-logo="" ,Sky Dramë
 http://landiptv.live:8080/live/1234567/123456788/63498.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Sky Histori
+#EXTINF:0 tvg-logo="" ,Sky Histori
 http://landiptv.live:8080/live/1234567/123456788/63601.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Sky Komedi HD
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png" ,Sky Comedy
 http://landiptv.live:8080/live/1234567/123456788/63499.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Sky MAX HD
+#EXTINF:0 tvg-logo="" ,Sky MAX HD
 http://landiptv.live:8080/live/1234567/123456788/63500.ts
-#EXTINF:0 tvg-id="ext" group-title="ALBANIAN",Sky Novela
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Novela.png" ,Sky Novela
 http://landiptv.live:8080/live/1234567/123456788/63577.ts
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="ALBANIAN",Sky Shkence
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Shkenca.png" ,Sky Shkenca
 http://landiptv.live:8080/live/1234567/123456788/63602.ts
