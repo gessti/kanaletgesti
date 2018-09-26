@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
+#EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/2000px-Top_Channel.svg.png" ,Top Channel
 http://landiptv.live:8080/live/1234567/123456788/63779.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png" ,Klan TV HD
