@@ -1,0 +1,347 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="3473", BOX NATION
+http://landiptv.live:8080/live/julio/1234567/68496.ts
+#EXTINF:0 type="stream" channelId="2540", ESPN
+http://landiptv.live:8080/live/julio/1234567/97678.ts
+#EXTINF:0 type="stream" channelId="344", ESPN 2
+http://landiptv.live:8080/live/julio/1234567/118863.ts
+#EXTINF:0 type="stream" channelId="344", ESPN 2
+http://landiptv.live:8080/live/julio/1234567/68403.ts
+#EXTINF:0 type="stream" channelId="355", ESPN 3
+http://landiptv.live:8080/live/julio/1234567/112205.ts
+#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
+http://landiptv.live:8080/live/julio/1234567/118864.ts
+#EXTINF:0 type="stream" channelId="3747", ESPN+
+http://landiptv.live:8080/live/julio/1234567/111392.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://ulango.tv/uploads/channels/60721/logo_espn%20deportes.png", ESPN Deportes HD
+http://landiptv.live:8080/live/julio/1234567/106926.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.lasolution1.ca/xbmckodi/IteleIptvWeb/images/f1SkyChannel.png", Formula 1
+http://landiptv.live:8080/live/julio/1234567/116191.ts
+#EXTINF:0 type="stream" channelId="1329", FOX SPORTS 1
+http://landiptv.live:8080/live/julio/1234567/77829.ts
+#EXTINF:0 type="stream" channelId="-1", FOX SPORT VEN
+http://landiptv.live:8080/live/julio/1234567/77800.ts
+#EXTINF:0 type="stream" channelId="1328", Fox Sports
+http://landiptv.live:8080/live/julio/1234567/68751.ts
+#EXTINF:0 type="stream" channelId="2891", Fox Sports HD
+http://landiptv.live:8080/live/julio/1234567/77782.ts
+#EXTINF:0 type="stream" channelId="2891", FOX SPORTS HD
+http://landiptv.live:8080/live/julio/1234567/108452.ts
+#EXTINF:0 type="stream" channelId="179", Fox Sports 2 HD
+http://landiptv.live:8080/live/julio/1234567/68430.ts
+#EXTINF:0 type="stream" channelId="213", Fox Sports 3 HD
+http://landiptv.live:8080/live/julio/1234567/77783.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784053_logo_fox_sports_premium.png", FOX SPORTS PREMIUM HD
+http://landiptv.live:8080/live/julio/1234567/68376.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png", Garage TV
+http://landiptv.live:8080/live/julio/1234567/106225.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DIRECT TV SPORTS
+http://landiptv.live:8080/live/julio/1234567/118861.ts
+#EXTINF:0 type="stream" channelId="3802" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/TyC_Sports.svg/revision/latest?cb=20100625094432", TYC Sports HD
+http://landiptv.live:8080/live/julio/1234567/112224.ts
+#EXTINF:0 type="stream" channelId="3802", TYC Sports
+http://landiptv.live:8080/live/julio/1234567/77765.ts
+#EXTINF:0 type="stream" channelId="1389", GOLF CHANNEL
+http://landiptv.live:8080/live/julio/1234567/68890.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.elclasicolagos.com/assets/laliga.png", La Liga TV
+http://landiptv.live:8080/live/julio/1234567/97947.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tiendas.beinconnect.es/images/logos/laliga-123-tv.svg", LA LIGA 1|2|3 TV HD
+http://landiptv.live:8080/live/julio/1234567/70910.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://exstreamist.com/wp-content/uploads/2016/08/watch-UFC-online.png", UFC
+http://landiptv.live:8080/live/julio/1234567/111424.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/TNT_Sports_Logo_%282017%29.png/revision/latest?cb=20171003155015", TNT Sports
+http://landiptv.live:8080/live/julio/1234567/116055.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://seeklogo.com/images/B/bob-esponja-logo-D4EB59C09A-seeklogo.com.png", BOB ESPONJA 24/7
+http://landiptv.live:8080/live/julio/1234567/77845.ts
+#EXTINF:0 type="stream" channelId="3330", BOOMERANG HD
+http://landiptv.live:8080/live/julio/1234567/68548.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://img2.wikia.nocookie.net/__cb20140823200544/equestriagirls/es/images/9/97/2014_Disney_Channel_Logo.svg.png", Canal Disney HD
+http://landiptv.live:8080/live/julio/1234567/101556.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://ulango.tv/uploads/channels/3784344/logo_coraje%20el%20perro%20cobarde.png", CORAJE EL PERRO COBARDE 24/7
+http://landiptv.live:8080/live/julio/1234567/77841.ts
+#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
+http://landiptv.live:8080/live/julio/1234567/77789.ts
+#EXTINF:0 type="stream" channelId="2720", Disney Channel HD
+http://landiptv.live:8080/live/julio/1234567/68539.ts
+#EXTINF:0 type="stream" channelId="1198", Disney XD
+http://landiptv.live:8080/live/julio/1234567/68537.ts
+#EXTINF:0 type="stream" channelId="1197", Disney Junior
+http://landiptv.live:8080/live/julio/1234567/68656.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/DBGT_Logo.png", DRAGON BALL GT 24/7
+http://landiptv.live:8080/live/julio/1234567/77838.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://animaestudios.com/assets/themes/abo-anima/resources/images/ESPANOL/ENG_CHP.png", EL CHAPULIN COLORADO
+http://landiptv.live:8080/live/julio/1234567/101568.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/250px-El_Chavo_Animado_-_logo.svg.png", El Chavo del Ocho
+http://landiptv.live:8080/live/julio/1234567/101559.ts
+#EXTINF:0 type="stream" channelId="-1", EL SHOW DE LA PEQUENA LULU
+http://landiptv.live:8080/live/julio/1234567/101572.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://animagehub.com/wp-content/uploads/2016/10/Pink-panther-vector-4.png", LA PANTERA ROSA TV
+http://landiptv.live:8080/live/julio/1234567/101579.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/ichc-channel/images/6/6d/Looney_Tunes_Logo.png/revision/latest?cb=20160425002039", LOONEY TUNES 24/7
+http://landiptv.live:8080/live/julio/1234567/77827.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.pinimg.com/originals/02/cd/ec/02cdecd6a0f513954e95b4ef492926ee.png", LOS PICAPIEDRA
+http://landiptv.live:8080/live/julio/1234567/101581.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1200px-The_Simpsons_Logo.svg.png", LOS SIMPSONS
+http://landiptv.live:8080/live/julio/1234567/101582.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.pinimg.com/236x/fc/0d/5d/fc0d5d9dd96e76e7c6c3e97e58ef3464.jpg", LOS SUPERSONICOS
+http://landiptv.live:8080/live/julio/1234567/101583.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Nick_Jr._2_logo.png/revision/latest?cb=20161111232306", NICK 2 HD
+http://landiptv.live:8080/live/julio/1234567/68590.ts
+#EXTINF:0 type="stream" channelId="2710", NICK JR HD
+http://landiptv.live:8080/live/julio/1234567/68394.ts
+#EXTINF:0 type="stream" channelId="334", Nickelodeon HD
+http://landiptv.live:8080/live/julio/1234567/68568.ts
+#EXTINF:0 type="stream" channelId="2711", NICKTOONS
+http://landiptv.live:8080/live/julio/1234567/78657.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://ulango.tv/uploads/channels/3782901/logo_nat%20geo%20kids.png", NAT GEO Kids HD
+http://landiptv.live:8080/live/julio/1234567/68525.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz8kps-WpHtA6qCzWTQN2jaY92t26J2MgsAsA=s900-mo-c-c0xffffffff-rj-k-no", PEPA PIG 24/7
+http://landiptv.live:8080/live/julio/1234567/104858.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://seeklogo.com/images/S/Scooby_Doo-logo-631867D730-seeklogo.com.png", SCOOBY DOO 24/7
+http://landiptv.live:8080/live/julio/1234567/77821.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG24.png", TOM Y JERRY 24/7
+http://landiptv.live:8080/live/julio/1234567/77819.ts
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://landiptv.live:8080/live/julio/1234567/68433.ts
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://landiptv.live:8080/live/julio/1234567/106968.ts
+#EXTINF:0 type="stream" channelId="2246", AXN HD
+http://landiptv.live:8080/live/julio/1234567/68480.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11737_7_225568.png", CINE DINAMITA
+http://landiptv.live:8080/live/julio/1234567/68687.ts
+#EXTINF:0 type="stream" channelId="283", CINE LATINO
+http://landiptv.live:8080/live/julio/1234567/77855.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/cine_sony_m.png?w=250&ch=Width&auto=format,compress", CINE SONY
+http://landiptv.live:8080/live/julio/1234567/77756.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema PPV
+http://landiptv.live:8080/live/julio/1234567/102054.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 01 PPV
+http://landiptv.live:8080/live/julio/1234567/84379.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 02 PPV
+http://landiptv.live:8080/live/julio/1234567/84380.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 03 PPV
+http://landiptv.live:8080/live/julio/1234567/84381.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 04 PPV
+http://landiptv.live:8080/live/julio/1234567/84382.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 05 PPV
+http://landiptv.live:8080/live/julio/1234567/84383.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 06 PPV
+http://landiptv.live:8080/live/julio/1234567/84384.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 07 PPV
+http://landiptv.live:8080/live/julio/1234567/84385.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 08 PPV
+http://landiptv.live:8080/live/julio/1234567/84386.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 09 PPV
+http://landiptv.live:8080/live/julio/1234567/84387.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 10 PPV
+http://landiptv.live:8080/live/julio/1234567/84388.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 11 PPV
+http://landiptv.live:8080/live/julio/1234567/84389.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 12 PPV
+http://landiptv.live:8080/live/julio/1234567/84390.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 13 PPV
+http://landiptv.live:8080/live/julio/1234567/99976.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 14 PPV
+http://landiptv.live:8080/live/julio/1234567/99977.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 15 PPV
+http://landiptv.live:8080/live/julio/1234567/84393.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 16 PPV
+http://landiptv.live:8080/live/julio/1234567/99978.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 17 PPV
+http://landiptv.live:8080/live/julio/1234567/99979.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 18 PPV
+http://landiptv.live:8080/live/julio/1234567/99980.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 19 PPV
+http://landiptv.live:8080/live/julio/1234567/99981.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 20 PPV
+http://landiptv.live:8080/live/julio/1234567/99982.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 21 PPV
+http://landiptv.live:8080/live/julio/1234567/99983.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 22 PPV
+http://landiptv.live:8080/live/julio/1234567/99984.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 23 PPV
+http://landiptv.live:8080/live/julio/1234567/99985.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 24 PPV
+http://landiptv.live:8080/live/julio/1234567/99986.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 25 PPV
+http://landiptv.live:8080/live/julio/1234567/99987.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 26 PPV
+http://landiptv.live:8080/live/julio/1234567/99988.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 27 PPV
+http://landiptv.live:8080/live/julio/1234567/99989.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 28 PPV
+http://landiptv.live:8080/live/julio/1234567/99990.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 29 PPV
+http://landiptv.live:8080/live/julio/1234567/99991.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 30 PPV
+http://landiptv.live:8080/live/julio/1234567/99992.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 31 PPV
+http://landiptv.live:8080/live/julio/1234567/99993.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 32 PPV
+http://landiptv.live:8080/live/julio/1234567/99994.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 33 PPV
+http://landiptv.live:8080/live/julio/1234567/99995.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 34 PPV
+http://landiptv.live:8080/live/julio/1234567/99996.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 35 PPV
+http://landiptv.live:8080/live/julio/1234567/99997.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", Cinema 36 PPV
+http://landiptv.live:8080/live/julio/1234567/99998.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.cfmradio.fr/2015/09/cinemaajpg.png", CINEMA PLUS
+http://landiptv.live:8080/live/julio/1234567/116797.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.partner.ulango.tv/uploads/channels/554293/logo_cinemax%20action.png", ActionMax FHD
+http://landiptv.live:8080/live/julio/1234567/102008.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest?cb=20160721192021", Cinemax Action HD
+http://landiptv.live:8080/live/julio/1234567/77737.ts
+#EXTINF:0 type="stream" channelId="-1", Cinemax East FHD
+http://landiptv.live:8080/live/julio/1234567/77736.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_22580.png", CineMax FHD
+http://landiptv.live:8080/live/julio/1234567/68426.ts
+#EXTINF:0 type="stream" channelId="208", FOX HD
+http://landiptv.live:8080/live/julio/1234567/77785.ts
+#EXTINF:0 type="stream" channelId="3755", Fox Premium Action HD
+http://landiptv.live:8080/live/julio/1234567/77923.ts
+#EXTINF:0 type="stream" channelId="2494", FOX CINEMA
+http://landiptv.live:8080/live/julio/1234567/68536.ts
+#EXTINF:0 type="stream" channelId="3758" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png", FOX PREMIUM COMEDY
+http://landiptv.live:8080/live/julio/1234567/68534.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png", FOX PREMIUM FAMILY HD
+http://landiptv.live:8080/live/julio/1234567/68461.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1559.png.5e5bd9e6882c26e41e413379b0ad739c.png", FOX PREMIUM MOVIES HD
+http://landiptv.live:8080/live/julio/1234567/68366.ts
+#EXTINF:0 type="stream" channelId="205", FOX LIFE HD
+http://landiptv.live:8080/live/julio/1234567/68533.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://ulango.tv/uploads/channels/3782398/logo_fox%20premium%20series.png", FOX SERIES
+http://landiptv.live:8080/live/julio/1234567/68435.ts
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://landiptv.live:8080/live/julio/1234567/68505.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png", FX MOVIE HD
+http://landiptv.live:8080/live/julio/1234567/68501.ts
+#EXTINF:0 type="stream" channelId="1963", GOLDEN PREMIER
+http://landiptv.live:8080/live/julio/1234567/107034.ts
+#EXTINF:0 type="stream" channelId="3765" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730", GOLDEN PLUS
+http://landiptv.live:8080/live/julio/1234567/107032.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730", GOLDEN PLUS HD
+http://landiptv.live:8080/live/julio/1234567/68600.ts
+#EXTINF:0 type="stream" channelId="2408", HBO HD
+http://landiptv.live:8080/live/julio/1234567/77791.ts
+#EXTINF:0 type="stream" channelId="2409", HBO 2 HD
+http://landiptv.live:8080/live/julio/1234567/68442.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/71/HBO_Latino.svg/revision/latest?cb=20170824122142", HBO Latino HD
+http://landiptv.live:8080/live/julio/1234567/77734.ts
+#EXTINF:0 type="stream" channelId="2844", HBO Family HD
+http://landiptv.live:8080/live/julio/1234567/68582.ts
+#EXTINF:0 type="stream" channelId="2723" tvg-logo="https://www.logolynx.com/images/logolynx/5b/5b237aadb6832363e4d2eacfa00e3141.png", HBO Plus HD
+http://landiptv.live:8080/live/julio/1234567/68441.ts
+#EXTINF:0 type="stream" channelId="-1", HBO Plus West HD
+http://landiptv.live:8080/live/julio/1234567/77731.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/IbnsA9mAqE0U6O.png/revision/latest?cb=20120131150111", HBO Signature FHD
+http://landiptv.live:8080/live/julio/1234567/68440.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/732.png", HBO West HD
+http://landiptv.live:8080/live/julio/1234567/77729.ts
+#EXTINF:0 type="stream" channelId="2725", MAX
+http://landiptv.live:8080/live/julio/1234567/68741.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516", MAX UP HD
+http://landiptv.live:8080/live/julio/1234567/77766.ts
+#EXTINF:0 type="stream" channelId="2587", MAX PRIME
+http://landiptv.live:8080/live/julio/1234567/68510.ts
+#EXTINF:0 type="stream" channelId="2214", RAI ITALIA
+http://landiptv.live:8080/live/julio/1234567/116811.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.kym-cdn.com/photos/images/original/001/018/269/b21.png", THE BIG BANG THEORY
+http://landiptv.live:8080/live/julio/1234567/101588.ts
+#EXTINF:0 type="stream" channelId="2903", WARNER HD
+http://landiptv.live:8080/live/julio/1234567/122041.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/inspectorgadget/images/f/f2/Warner-bros-logo.png/revision/latest?cb=20161009025541", Warner Bros HD
+http://landiptv.live:8080/live/julio/1234567/68428.ts
+#EXTINF:0 type="stream" channelId="351", SONY HD
+http://landiptv.live:8080/live/julio/1234567/68481.ts
+#EXTINF:0 type="stream" channelId="2896", SPACE HD
+http://landiptv.live:8080/live/julio/1234567/68383.ts
+#EXTINF:0 type="stream" channelId="2625", STUDIO UNIVERSAL
+http://landiptv.live:8080/live/julio/1234567/68520.ts
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+http://landiptv.live:8080/live/julio/1234567/68390.ts
+#EXTINF:0 type="stream" channelId="3797", TNT Series HD
+http://landiptv.live:8080/live/julio/1234567/68382.ts
+#EXTINF:0 type="stream" channelId="187", UNIVERSAL CHANNEL
+http://landiptv.live:8080/live/julio/1234567/68506.ts
+#EXTINF:0 type="stream" channelId="1497", PARAMOUNT CHANNEL HD
+http://landiptv.live:8080/live/julio/1234567/68393.ts
+#EXTINF:0 type="stream" channelId="1484", MTV HD
+http://landiptv.live:8080/live/julio/1234567/68684.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV Hits HD
+http://landiptv.live:8080/live/julio/1234567/77787.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://kccl.tv/sites/default/files/large.5937266710272_VH1HD.png", VH1 CLASSICS
+http://landiptv.live:8080/live/julio/1234567/68823.ts
+#EXTINF:0 type="stream" channelId="2902", VH1 HD
+http://landiptv.live:8080/live/julio/1234567/68513.ts
+#EXTINF:0 type="stream" channelId="2627", VH1 MEGAHITS
+http://landiptv.live:8080/live/julio/1234567/97679.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png", AMERICA TV
+http://landiptv.live:8080/live/julio/1234567/99800.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png", CRONICA
+http://landiptv.live:8080/live/julio/1234567/118856.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7d/TV_P%C3%BAblica_Canal_7_Cisplatina_2009.png/revision/latest?cb=20160219110134", CANAL 7 TV PUBLICA
+http://landiptv.live:8080/live/julio/1234567/68776.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Elnueve-ls83logo.png/revision/latest?cb=20170523064738", EL NUEVE
+http://landiptv.live:8080/live/julio/1234567/99803.ts
+#EXTINF:0 type="stream" channelId="1971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/El_Trece_logo_2008.png", EL TRECE
+http://landiptv.live:8080/live/julio/1234567/99802.ts
+#EXTINF:0 type="stream" channelId="1929", C5N
+http://landiptv.live:8080/live/julio/1234567/97596.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png", CNN EN ESPANOL
+http://landiptv.live:8080/live/julio/1234567/123179.ts
+#EXTINF:0 type="stream" channelId="3124", E! Entertainment HD
+http://landiptv.live:8080/live/julio/1234567/77917.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Telefe_2016.png/revision/latest?cb=20160218223936", Telefe HD
+http://landiptv.live:8080/live/julio/1234567/116054.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/22/Todo_Noticias_2016.png/revision/latest?cb=20160803172930", TN HD
+http://landiptv.live:8080/live/julio/1234567/77779.ts
+#EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
+http://landiptv.live:8080/live/julio/1234567/68553.ts
+#EXTINF:0 type="stream" channelId="341", DISCOVERY Channel HD
+http://landiptv.live:8080/live/julio/1234567/68388.ts
+#EXTINF:0 type="stream" channelId="2841", DISCOVERY CIVILIZATION
+http://landiptv.live:8080/live/julio/1234567/68660.ts
+#EXTINF:0 type="stream" channelId="341" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f3/Discovery_HD_2013.png/revision/latest?cb=20140512123608", DISCOVERY HD
+http://landiptv.live:8080/live/julio/1234567/68453.ts
+#EXTINF:0 type="stream" channelId="2620", Discovery Home&Health
+http://landiptv.live:8080/live/julio/1234567/68504.ts
+#EXTINF:0 type="stream" channelId="59", Discovery ID
+http://landiptv.live:8080/live/julio/1234567/68502.ts
+#EXTINF:0 type="stream" channelId="58", DISCOVERY SCIENCE
+http://landiptv.live:8080/live/julio/1234567/68541.ts
+#EXTINF:0 type="stream" channelId="2558", DISCOVERY THEATER HD
+http://landiptv.live:8080/live/julio/1234567/68540.ts
+#EXTINF:0 type="stream" channelId="67", Discovery TLC
+http://landiptv.live:8080/live/julio/1234567/80180.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png/revision/latest?cb=20140513095732", Discovery Turbo HD
+http://landiptv.live:8080/live/julio/1234567/68503.ts
+#EXTINF:0 type="stream" channelId="2890", Discovery World HD
+http://landiptv.live:8080/live/julio/1234567/68416.ts
+#EXTINF:0 type="stream" channelId="1456", History Channel HD
+http://landiptv.live:8080/live/julio/1234567/68427.ts
+#EXTINF:0 type="stream" channelId="207", NAT GEO HD
+http://landiptv.live:8080/live/julio/1234567/68398.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg/revision/latest?cb=20140626190709", NAT GEO MUNDO HD
+http://landiptv.live:8080/live/julio/1234567/68439.ts
+#EXTINF:0 type="stream" channelId="206", NAT GEO Wild HD
+http://landiptv.live:8080/live/julio/1234567/68397.ts
+#EXTINF:0 type="stream" channelId="274", Blue Hustler
+http://landiptv.live:8080/live/julio/1234567/96540.ts
+#EXTINF:0 type="stream" channelId="518", Brazzers TV Europe
+http://landiptv.live:8080/live/julio/1234567/66672.ts
+#EXTINF:0 type="stream" channelId="1261", Babestation
+http://landiptv.live:8080/live/julio/1234567/103820.ts
+#EXTINF:0 type="stream" channelId="1904", Exotica
+http://landiptv.live:8080/live/julio/1234567/103449.ts
+#EXTINF:0 type="stream" channelId="1906", Cento x Cento
+http://landiptv.live:8080/live/julio/1234567/107907.ts
+#EXTINF:0 type="stream" channelId="2153", Dorcel TV
+http://landiptv.live:8080/live/julio/1234567/96551.ts
+#EXTINF:0 type="stream" channelId="3710", Erox HD
+http://landiptv.live:8080/live/julio/1234567/99498.ts
+#EXTINF:0 type="stream" channelId="3646", Jasmin TV
+http://landiptv.live:8080/live/julio/1234567/93725.ts
+#EXTINF:0 type="stream" channelId="519", Hustler
+http://landiptv.live:8080/live/julio/1234567/93283.ts
