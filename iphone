@@ -1,329 +1,331 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/2000px-Top_Channel.svg.png" ,Top Channel
-http://landiptv.live:8080/live/1234567/123456788/63779.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png" ,Klan TV HD
-http://landiptv.live:8080/live/1234567/123456788/63775.ts
-#EXTINF:0 tvg-logo="http://albepg.com/tvlogi/Klan%20Kosova.png" ,Klan Kosova
-http://landiptv.live:8080/live/1234567/123456788/63790.ts
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/8Y0RBb6o70U/hqdefault.jpg" ,Klan Plus
-http://landiptv.live:8080/live/1234567/123456788/63774.ts
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Logo_ok.png/revision/latest?cb=20170912115233" ,Vizion Plus
-http://landiptv.live:8080/live/1234567/123456788/63778.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1039px-Vizion_Plus.svg.png" ,Vizion Plus HD
-http://landiptv.live:8080/live/1234567/123456788/63777.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png" ,Top News
-http://landiptv.live:8080/live/1234567/123456788/101107.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ABC_News_%28Albania%29.svg/2000px-ABC_News_%28Albania%29.svg.png" ,ABC News
-http://landiptv.live:8080/live/1234567/123456788/63686.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Channel_One_%28Albania%29.svg/2000px-Channel_One_%28Albania%29.svg.png" ,Channel ONE
-http://landiptv.live:8080/live/1234567/123456788/63773.ts
-#EXTINF:0 tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/A1-Report.png" ,A1 Report
-http://landiptv.live:8080/live/1234567/123456788/95626.ts
-#EXTINF:0 tvg-logo="https://www.firstonetv.net/images/logos/mk/ERA.png" ,Era TV
-http://landiptv.live:8080/live/1234567/123456788/63694.ts
-#EXTINF:0 tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ScanRtvTV_logo_5ac42b75a565d.png" ,Scan TV
-http://landiptv.live:8080/live/1234567/123456788/63683.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/2000px-News_24_%28Albania%29.svg.png" ,News 24
-http://landiptv.live:8080/live/1234567/123456788/63688.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/1280px-Ora_News_%28Albania%29.svg.png" ,ORA News
-http://landiptv.live:8080/live/1234567/123456788/63685.ts
-#EXTINF:0 tvg-logo="http://gasinet.altervista.org/wp-content/uploads/2017/09/Alsat_M.svg_.png" ,Alsat M
-http://landiptv.live:8080/live/1234567/123456788/63755.ts
-#EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/4/e/4/4e476bb1969bd3cf0675dd52261cc7be_icon.png?w=240" ,TV Koha HD
-http://landiptv.live:8080/live/1234567/123456788/63762.ts
-#EXTINF:0 tvg-logo="https://ulango.tv/uploads/channels/3780801/logo_dibra%20tv.png" ,Dibra TV
-http://landiptv.live:8080/live/1234567/123456788/63703.ts
-#EXTINF:0 tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/STV-Folk.jpg" ,STV Folk
-http://landiptv.live:8080/live/1234567/123456788/63712.ts
-#EXTINF:0 tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/STV-Folk.jpg" ,SUPER FOLK
-http://landiptv.live:8080/live/1234567/123456788/99695.ts
-#EXTINF:0 tvg-logo="http://nextgen-iptv.com/Logos/alb/folklorit.png" ,Folklorit
-http://landiptv.live:8080/live/1234567/123456788/63713.ts
-#EXTINF:0 tvg-logo="https://cdn-005.mobile2morrow.com/wp-content/uploads/2017/05/bbf.png?x60267" ,BBF
-http://landiptv.live:8080/live/1234567/123456788/117524.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/My-Music-logo.jpg" ,My Music
-http://landiptv.live:8080/live/1234567/123456788/63725.ts
-#EXTINF:0 tvg-logo="http://albepg.com/tvlogi/Club%20TV.png" ,Club TV
-http://landiptv.live:8080/live/ermirmani/maniermir/63723.ts
-#EXTINF:0 tvg-logo="http://albepg.com/tvlogi/ALB%20MUSIC%20HD.png" ,ALB MUSIC HD
-http://landiptv.live:8080/live/1234567/123456788/63750.ts
-#EXTINF:0 tvg-logo="http://picon.space/dasmatv.png" ,Dasma TV
-http://landiptv.live:8080/live/1234567/123456788/63391.ts
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png/revision/latest?cb=20111124002006" ,MTV Base
-http://landiptv.live:8080/live/1234567/123456788/93938.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/MTV_Brand_New.svg/1200px-MTV_Brand_New.svg.png" ,MTV Brand New
-http://landiptv.live:8080/live/1234567/123456788/63739.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/2000px-MTV_HD_Logo_2013.svg.png" ,MTV HD
-http://landiptv.live:8080/live/1234567/123456788/63738.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Live_HD_2011.svg/250px-MTV_Live_HD_2011.svg.png" ,MTV Live HD
-http://landiptv.live:8080/live/1234567/123456788/94790.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%20News.png" ,SuperSport News
-http://landiptv.live:8080/live/1234567/123456788/94075.ts
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-Q8ShPT1VXA0/WJHfEgQg1kI/AAAAAAAACcM/wZGD0OZjTM8rzjuHJ8BM8pcZXdooG_X4ACLcB/s1600/ss2hd.png" ,SuperSport 2
-http://landiptv.live:8080/live/1234567/123456788/94076.ts
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/SS3HD-Albania.png/revision/latest?cb=20160805102903" ,SuperSport 3
-http://landiptv.live:8080/live/1234567/123456788/94077.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" ,SuperSport 1 HD
-http://landiptv.live:8080/live/1234567/123456788/63353.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" ,SuperSport 2 HD
-http://landiptv.live:8080/live/1234567/123456788/63352.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" ,SuperSport 3 HD
-http://landiptv.live:8080/live/1234567/123456788/63351.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" ,SuperSport 4 HD
-http://landiptv.live:8080/live/1234567/123456788/63350.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" ,SuperSport 5 HD
-http://landiptv.live:8080/live/1234567/123456788/63349.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png" ,SuperSport 6 HD
-http://landiptv.live:8080/live/1234567/123456788/94049.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%207.png" ,SuperSport 7 HD
-http://landiptv.live:8080/live/1234567/123456788/126168.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" ,TringSport 1 HD
-http://landiptv.live:8080/live/1234567/123456788/63346.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" ,TringSport 2 HD
-http://landiptv.live:8080/live/1234567/123456788/63345.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" ,TringSport 3 HD
-http://landiptv.live:8080/live/1234567/123456788/78436.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png" ,TringSport 4 HD
-http://landiptv.live:8080/live/1234567/123456788/78437.ts
-#EXTINF:0 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/rtshsport.png" ,RTSH Sport
-http://landiptv.live:8080/live/1234567/123456788/94062.ts
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad/images/f/fb/2000px-RTSH_logo_%282017%29.svg.png/revision/latest?cb=20180130012305" ,RTSH 1
-http://landiptv.live:8080/live/1234567/123456788/109247.ts
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/RTSH3_large.png/revision/latest?cb=20170325165310" ,RTSH 3 HD
-http://landiptv.live:8080/live/1234567/123456788/63785.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cufo_TV.png" ,CUFO TV
-http://landiptv.live:8080/live/1234567/123456788/63649.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png" ,Bang Bang
-http://landiptv.live:8080/live/1234567/123456788/63650.ts
-#EXTINF:0 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/logo-barbie-png-5.png" ,BARBIE TV (SHQIP)
-http://landiptv.live:8080/live/1234567/123456788/125074.ts
-#EXTINF:0 tvg-logo="http://www.stickpng.com/assets/images/5a3147c8cb9a85480a628f2e.png" ,Masha dhe Ariu
-http://landiptv.live:8080/live/1234567/123456788/63617.ts
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Mr._Bean_%28animated_TV_series%29_logo.svg.png/revision/latest?cb=20150902183956" ,MR BEAN (cartoon)
-http://landiptv.live:8080/live/1234567/123456788/93948.ts
-#EXTINF:0 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG24.png" ,TOM&JERRY HD
-http://landiptv.live:8080/live/1234567/123456788/109282.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" ,Nick Junior HD
-http://landiptv.live:8080/live/1234567/123456788/63628.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/2000px-Nicktoons_2014_logo.svg.png" ,Nick Toons
-http://landiptv.live:8080/live/1234567/123456788/93947.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png" ,Tip TV
-http://landiptv.live:8080/live/1234567/123456788/63643.ts
-#EXTINF:0 tvg-logo="http://zjarr.tv/wp-content/uploads/2016/02/logo2.png" ,Zjarr TV
-http://landiptv.live:8080/live/1234567/123456788/63749.ts
-#EXTINF:0 tvg-logo="http://ulango.tv/uploads/channels/3788185/logo_in%20cinemania.png" ,IN TV
-http://landiptv.live:8080/live/1234567/123456788/126158.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png" ,T Shqip
-http://landiptv.live:8080/live/1234567/123456788/117443.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" ,Film Aksion
-http://landiptv.live:8080/live/1234567/123456788/63550.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png" ,Film Autor
-http://landiptv.live:8080/live/1234567/123456788/117440.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png" ,Film Komedi
-http://landiptv.live:8080/live/1234567/123456788/117439.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png" ,Film Drame
-http://landiptv.live:8080/live/1234567/123456788/99656.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" ,FILM Thriller
-http://landiptv.live:8080/live/1234567/123456788/63548.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png" ,EUROFILM
-http://landiptv.live:8080/live/1234567/123456788/63553.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png" ,Family HD
-http://landiptv.live:8080/live/1234567/123456788/63558.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" ,Film Hits
-http://landiptv.live:8080/live/1234567/123456788/63551.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Stinet.png" ,Stinet
-http://landiptv.live:8080/live/1234567/123456788/95647.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" ,Film Nje HD
-http://landiptv.live:8080/live/1234567/123456788/95645.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png" ,Digi Gold 1
-http://landiptv.live:8080/live/1234567/123456788/63509.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%202.png" ,Digi Gold 2
-http://landiptv.live:8080/live/1234567/123456788/117461.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%203.png" ,Digi Gold 3
-http://landiptv.live:8080/live/1234567/123456788/63512.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%204.png" ,Digi Gold 4
-http://landiptv.live:8080/live/1234567/123456788/109272.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Filma24%20HD.png" ,Filma24 HD
-http://landiptv.live:8080/live/1234567/123456788/63504.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png" ,EXPLORER Natyra
-http://landiptv.live:8080/live/1234567/123456788/102082.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png" ,EXPLORER Shkence
-http://landiptv.live:8080/live/1234567/123456788/63608.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png" ,EXPLORER Histori
-http://landiptv.live:8080/live/1234567/123456788/100546.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png" ,3 plus
-http://landiptv.live:8080/live/1234567/123456788/63579.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" ,Tring Action
-http://landiptv.live:8080/live/1234567/123456788/63537.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png" ,Tring Comedy
-http://landiptv.live:8080/live/1234567/123456788/63536.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" ,Tring Fantasy
-http://landiptv.live:8080/live/1234567/123456788/63535.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png" ,Tring History
-http://landiptv.live:8080/live/1234567/123456788/112380.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png" ,Tring Kids
-http://landiptv.live:8080/live/1234567/123456788/63647.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png" ,Tring Life
-http://landiptv.live:8080/live/1234567/123456788/63534.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" ,Living HD
-http://landiptv.live:8080/live/1234567/123456788/99704.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Max.png" ,Tring Max
-http://landiptv.live:8080/live/1234567/123456788/78435.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png" ,Jolly HD
-http://landiptv.live:8080/live/1234567/123456788/63539.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Muse.png" ,Muse
-http://landiptv.live:8080/live/1234567/123456788/63575.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png" ,Tring Planet
-http://landiptv.live:8080/live/1234567/123456788/63604.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" ,Tring Shqip
-http://landiptv.live:8080/live/1234567/123456788/63541.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Smile.png" ,Smile
-http://landiptv.live:8080/live/1234567/123456788/63576.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sofia.png" ,Sofia
-http://landiptv.live:8080/live/1234567/123456788/99705.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" ,Tring Super
-http://landiptv.live:8080/live/1234567/123456788/63538.ts
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/7/7d/Tring_Tring_Logo.png/revision/latest?cb=20161025101126" ,Tring Tring
-http://landiptv.live:8080/live/1234567/123456788/63648.ts
-#EXTINF:0 tvg-logo="" ,KS AKSION
-http://landiptv.live:8080/live/1234567/123456788/93967.ts
-#EXTINF:0 tvg-logo="" ,KS COMEDY
-http://landiptv.live:8080/live/1234567/123456788/125095.ts
-#EXTINF:0 tvg-logo="" ,KS DRAMA
-http://landiptv.live:8080/live/1234567/123456788/125094.ts
-#EXTINF:0 tvg-logo="" ,KS FËMIJË
-http://landiptv.live:8080/live/1234567/123456788/63610.ts
-#EXTINF:0 tvg-logo="" ,KS FËMIJË (English)
-http://landiptv.live:8080/live/1234567/123456788/93945.ts
-#EXTINF:0 tvg-logo="" ,KS Gold 1 HD
-http://landiptv.live:8080/live/1234567/123456788/120293.ts
-#EXTINF:0 tvg-logo="" ,KS Gold 2 HD
-http://landiptv.live:8080/live/1234567/123456788/120294.ts
-#EXTINF:0 tvg-logo="" ,KS Gold 3 HD
-http://landiptv.live:8080/live/1234567/123456788/120295.ts
-#EXTINF:0 tvg-logo="" ,KS GOLD 4 HD
-http://landiptv.live:8080/live/1234567/123456788/99682.ts
-#EXTINF:0 tvg-logo="" ,KS HINDI HD
-http://landiptv.live:8080/live/1234567/123456788/122410.ts
-#EXTINF:0 tvg-logo="" ,KS Histori HD
-http://landiptv.live:8080/live/1234567/123456788/125077.ts
-#EXTINF:0 tvg-logo="" ,KS HITS
-http://landiptv.live:8080/live/1234567/123456788/63700.ts
-#EXTINF:0 tvg-logo="" ,KS HORROR
-http://landiptv.live:8080/live/1234567/123456788/93968.ts
-#EXTINF:0 tvg-logo="" ,KS HUMOR HD
-http://landiptv.live:8080/live/1234567/123456788/63515.ts
-#EXTINF:0 tvg-logo="" ,KS KIDS
-http://landiptv.live:8080/live/1234567/123456788/122408.ts
-#EXTINF:0 tvg-logo="" ,KS MUZIK
-http://landiptv.live:8080/live/1234567/123456788/122406.ts
-#EXTINF:0 tvg-logo="" ,KS POPULLORE HD
-http://landiptv.live:8080/live/1234567/123456788/122405.ts
-#EXTINF:0 tvg-logo="" ,KS PRANKS
-http://landiptv.live:8080/live/1234567/123456788/122404.ts
-#EXTINF:0 tvg-logo="" ,KS PREMIER 1 HD
-http://landiptv.live:8080/live/1234567/123456788/122398.ts
-#EXTINF:0 tvg-logo="" ,KS PREMIER 2 HD
-http://landiptv.live:8080/live/1234567/123456788/122399.ts
-#EXTINF:0 tvg-logo="" ,KS PREMIER 3 HD
-http://landiptv.live:8080/live/1234567/123456788/122400.ts
-#EXTINF:0 tvg-logo="" ,KS PREMIER 4 HD
-http://landiptv.live:8080/live/1234567/123456788/122401.ts
-#EXTINF:0 tvg-logo="" ,KS SERIAL HD
-http://landiptv.live:8080/live/1234567/123456788/93969.ts
-#EXTINF:0 tvg-logo="" ,KS SERIES HD
-http://landiptv.live:8080/live/1234567/123456788/122402.ts
-#EXTINF:0 tvg-logo="" ,KS Shkencë HD
-http://landiptv.live:8080/live/1234567/123456788/125076.ts
-#EXTINF:0 tvg-logo="" ,KS SHQIP
-http://landiptv.live:8080/live/1234567/123456788/93966.ts
-#EXTINF:0 tvg-logo="" ,Alb Action HD
-http://landiptv.live:8080/live/1234567/123456788/63496.ts
-#EXTINF:0 tvg-logo="" ,Alb Anime
-http://landiptv.live:8080/live/1234567/123456788/95642.ts
-#EXTINF:0 tvg-logo="" ,Alb Comedy
-http://landiptv.live:8080/live/1234567/123456788/95669.ts
-#EXTINF:0 tvg-logo="" ,Alb Film
-http://landiptv.live:8080/live/1234567/123456788/63497.ts
-#EXTINF:0 tvg-logo="" ,Alb Folk HD
-http://landiptv.live:8080/live/1234567/123456788/63428.ts
-#EXTINF:0 tvg-logo="" ,ALB HINDI HD
-http://landiptv.live:8080/live/1234567/123456788/63494.ts
-#EXTINF:0 tvg-logo="" ,Alb Hits
-http://landiptv.live:8080/live/1234567/123456788/63442.ts
-#EXTINF:0 tvg-logo="" ,Alb Horror HD
-http://landiptv.live:8080/live/1234567/123456788/63677.ts
-#EXTINF:0 tvg-logo="" ,ALB Humor 1 HD
-http://landiptv.live:8080/live/1234567/123456788/63490.ts
-#EXTINF:0 tvg-logo="" ,ALB Humor 2 HD
-http://landiptv.live:8080/live/1234567/123456788/63489.ts
-#EXTINF:0 tvg-logo="" ,Alb Islam
-http://landiptv.live:8080/live/1234567/123456788/63404.ts
-#EXTINF:0 tvg-logo="" ,Alb Kids
-http://landiptv.live:8080/live/1234567/123456788/78386.ts
-#EXTINF:0 tvg-logo="" ,ALB POPULLORE
-http://landiptv.live:8080/live/1234567/123456788/99645.ts
-#EXTINF:0 tvg-logo="" ,ALB UK HD
-http://landiptv.live:8080/live/1234567/123456788/93964.ts
-#EXTINF:0 tvg-logo="" ,ALB WESTERN HD
-http://landiptv.live:8080/live/1234567/123456788/63491.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Aksion.png" ,SHQIPTV Aksion
-http://landiptv.live:8080/live/1234567/123456788/78412.ts
-#EXTINF:0 tvg-logo="" ,SHQIPTV Cinema
-http://landiptv.live:8080/live/1234567/123456788/78413.ts
-#EXTINF:0 tvg-logo="" ,SHQIPTV DRAMA HD
-http://landiptv.live:8080/live/1234567/123456788/122412.ts
-#EXTINF:0 tvg-logo="" ,ShqipTV Fantasy HD
-http://landiptv.live:8080/live/1234567/123456788/78421.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Film.png" ,SHQIPTV Film
-http://landiptv.live:8080/live/1234567/123456788/63477.ts
-#EXTINF:0 tvg-logo="" ,ShqipTV FOLK HD
-http://landiptv.live:8080/live/1234567/123456788/109280.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Horror.png" ,SHQIPTV Horror
-http://landiptv.live:8080/live/1234567/123456788/78414.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Humor.png" ,SHQIPTV Humor
-http://landiptv.live:8080/live/1234567/123456788/63484.ts
-#EXTINF:0 tvg-logo="" ,ShqipTV Islam HD
-http://landiptv.live:8080/live/1234567/123456788/117465.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Jeta.png" ,SHQIPTV Jeta
-http://landiptv.live:8080/live/1234567/123456788/63437.ts
-#EXTINF:0 tvg-logo="" ,ShqipTV Komedi HD
-http://landiptv.live:8080/live/1234567/123456788/78415.ts
-#EXTINF:0 tvg-logo="" ,ShqipTV Mimi HD
-http://landiptv.live:8080/live/1234567/123456788/63638.ts
-#EXTINF:0 tvg-logo="" ,ShqipTV Qifteli HD
-http://landiptv.live:8080/live/1234567/123456788/117466.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Stupcat.png" ,SHQIPTV Stupcat
-http://landiptv.live:8080/live/1234567/123456788/93991.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png" ,Sky Aksion
-http://landiptv.live:8080/live/1234567/123456788/63501.ts
-#EXTINF:0 tvg-logo="" ,Sky Dramë
-http://landiptv.live:8080/live/1234567/123456788/63498.ts
-#EXTINF:0 tvg-logo="" ,Sky Histori
-http://landiptv.live:8080/live/1234567/123456788/63601.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png" ,Sky Comedy
-http://landiptv.live:8080/live/1234567/123456788/63499.ts
-#EXTINF:0 tvg-logo="" ,Sky MAX HD
-http://landiptv.live:8080/live/1234567/123456788/63500.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Novela.png" ,Sky Novela
-http://landiptv.live:8080/live/1234567/123456788/63577.ts
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Shkenca.png" ,Sky Shkenca
-http://landiptv.live:8080/live/1234567/123456788/63602.ts
-#EXTINF:0 tvg-id="ext" group-title="NotWorking",Blue Hustler
-http://landiptv.live:8080/live/ge/test1/96540.ts
-#EXTINF:0 tvg-id="Brazzers.ero" group-title="NotWorking",Brazzers TV Europe
-http://landiptv.live:8080/live/ge/test1/66672.ts
-#EXTINF:0 tvg-id="BungaBunga.al" group-title="NotWorking",Babestation
-http://landiptv.live:8080/live/ge/test1/103820.ts
-#EXTINF:0 tvg-logo= "",Exotica
-http://landiptv.live:8080/live/ge/test1/103449.ts
-#EXTINF:0 tvg-logo="" ,Cento x Cento
-http://landiptv.live:8080/live/ge/test1/107907.ts
-#EXTINF:0 tvg-logo="" ,Dorcel TV
-http://landiptv.live:8080/live/ge/test1/96551.ts
-#EXTINF:0 tvg-logo="" ,Erox HD
-http://landiptv.live:8080/live/ge/test1/99498.ts
-#EXTINF:0 tvg-logo="" ,Jasmin TV
-http://landiptv.live:8080/live/ge/test1/93725.ts
-#EXTINF:0 tvg-logo="" ,Hustler
-http://landiptv.live:8080/live/ge/test1/93283.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/2000px-Top_Channel.svg.png", Top Channel
+http://live.softservicex.com:9100/mark/malota/44241
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/2000px-Top_Channel.svg.png", Top Channel HD
+http://live.softservicex.com:9100/mark/malota/44242
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png", Klan TV HD
+http://live.softservicex.com:9100/mark/malota/44240
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png", Klan TV
+http://live.softservicex.com:9100/mark/malota/44239
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://albepg.com/tvlogi/Klan%20Kosova.png", Klan Kosova
+http://live.softservicex.com:9100/mark/malota/44250
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.ytimg.com/vi/8Y0RBb6o70U/hqdefault.jpg", Klan Plus
+http://live.softservicex.com:9100/mark/malota/44238
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Logo_ok.png/revision/latest?cb=20170912115233", Vizion Plus
+http://live.softservicex.com:9100/mark/malota/44235
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1039px-Vizion_Plus.svg.png", Vizion Plus HD
+http://live.softservicex.com:9100/mark/malota/44236
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png", Top News
+http://live.softservicex.com:9100/mark/malota/44147
+#EXTINF:0 type="stream" channelId="1944" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ABC_News_%28Albania%29.svg/2000px-ABC_News_%28Albania%29.svg.png", ABC News
+http://live.softservicex.com:9100/mark/malota/44140
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Channel_One_%28Albania%29.svg/2000px-Channel_One_%28Albania%29.svg.png", Channel ONE
+http://live.softservicex.com:9100/mark/malota/44223
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/a-/AN66SAzVxtWMdschv85hls7BAdzH3Y5vY_2nCtSvKA=s900-mo-c-c0xffffffff-rj-k-no", AdriaNet (Durres)
+http://live.softservicex.com:9100/mark/malota/43934
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.firstonetv.net/images/logos/mk/ERA.png", Era TV
+http://live.softservicex.com:9100/mark/malota/44221
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ScanRtvTV_logo_5ac42b75a565d.png", Scan TV
+http://live.softservicex.com:9100/mark/malota/44136
+#EXTINF:0 type="stream" channelId="446" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/2000px-News_24_%28Albania%29.svg.png", News 24
+http://live.softservicex.com:9100/mark/malota/31092
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/1280px-Ora_News_%28Albania%29.svg.png", ORA News
+http://live.softservicex.com:9100/mark/malota/31093
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://gasinet.altervista.org/wp-content/uploads/2017/09/Alsat_M.svg_.png", Alsat M HD
+http://live.softservicex.com:9100/mark/malota/44246
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://cdn6.aptoide.com/imgs/4/e/4/4e476bb1969bd3cf0675dd52261cc7be_icon.png?w=240", TV Koha HD
+http://live.softservicex.com:9100/mark/malota/44219
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/scratchpad/images/f/fb/2000px-RTSH_logo_%282017%29.svg.png/revision/latest?cb=20180130012305", RTSH 1
+http://live.softservicex.com:9100/mark/malota/44234
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/RTSH_2_HD.svg/1280px-RTSH_2_HD.svg.png", RTSH 2 HD
+http://live.softservicex.com:9100/mark/malota/44233
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/RTSH3_large.png/revision/latest?cb=20170325165310", RTSH 3 HD
+http://live.softservicex.com:9100/mark/malota/44232
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RTSH_24.svg/2000px-RTSH_24.svg.png", RTSH 24 HD
+http://live.softservicex.com:9100/mark/malota/44230
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RTSH_SHQIP.svg/1024px-RTSH_SHQIP.svg.png", RTSH Shqip HD
+http://live.softservicex.com:9100/mark/malota/44228
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ulango.tv/uploads/channels/3780801/logo_dibra%20tv.png", Dibra TV
+http://live.softservicex.com:9100/mark/malota/44207
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", Gjurme Shqipetare TV
+http://live.softservicex.com:9100/mark/malota/44055
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/STV-Folk.jpg", Folk
+http://live.softservicex.com:9100/mark/malota/44166
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://nextgen-iptv.com/Logos/alb/folklorit.png", Folklorit
+http://live.softservicex.com:9100/mark/malota/44165
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS Cifteli
+http://live.softservicex.com:9100/mark/malota/44185
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://cdn-005.mobile2morrow.com/wp-content/uploads/2017/05/bbf.png?x60267", BBF
+http://live.softservicex.com:9100/mark/malota/44171
+#EXTINF:0 type="stream" channelId="-1", KS HITS
+http://live.softservicex.com:9100/mark/malota/44182
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/My-Music-logo.jpg", My Music
+http://live.softservicex.com:9100/mark/malota/44175
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://albepg.com/tvlogi/Club%20TV.png", Club TV
+http://live.softservicex.com:9100/ermirmani/maniermir/44174
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://albepg.com/tvlogi/ALB%20MUSIC%20HD.png", ALB MUSIC HD
+http://live.softservicex.com:9100/mark/malota/44154
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://picon.space/dasmatv.png", Dasma TV
+http://live.softservicex.com:9100/mark/malota/44190
+#EXTINF:0 type="stream" channelId="3284" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png/revision/latest?cb=20111124002006", MTV Base
+http://live.softservicex.com:9100/mark/malota/40462
+#EXTINF:0 type="stream" channelId="1484" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/2000px-MTV_HD_Logo_2013.svg.png", MTV HD
+http://live.softservicex.com:9100/mark/malota/40459
+#EXTINF:0 type="stream" channelId="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Live_HD_2011.svg/250px-MTV_Live_HD_2011.svg.png", MTV Live HD
+http://live.softservicex.com:9100/mark/malota/40461
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cufo_TV.png", CUFO TV
+http://live.softservicex.com:9100/mark/malota/63649
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS Femije
+http://live.softservicex.com:9100/mark/malota/44120
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS Baby HD
+http://live.softservicex.com:9100/mark/malota/44121
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS KIDS
+http://live.softservicex.com:9100/mark/malota/44088
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png", Bang Bang
+http://live.softservicex.com:9100/mark/malota/44134
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/logo-barbie-png-5.png", BARBIE TV (SHQIP)
+http://live.softservicex.com:9100/mark/malota/44115
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.stickpng.com/assets/images/5a3147c8cb9a85480a628f2e.png", Masha dhe Ariu
+http://live.softservicex.com:9100/mark/malota/44096
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Mr._Bean_%28animated_TV_series%29_logo.svg.png/revision/latest?cb=20150902183956", MR BEAN (cartoon)
+http://live.softservicex.com:9100/mark/malota/44099
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG24.png", TOM&JERRY HD
+http://live.softservicex.com:9100/mark/malota/44122
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png", Nick Junior HD
+http://live.softservicex.com:9100/mark/malota/44127
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/2000px-Nicktoons_2014_logo.svg.png", Nick Toons
+http://live.softservicex.com:9100/mark/malota/44103
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJPZENRwr2p5_vl1lY-_w5tOr5TZQTzu9u5EaJoC67yZdD_4H", Digi Sofia
+http://live.softservicex.com:9100/mark/malota/44131
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png", Tip TV
+http://live.softservicex.com:9100/mark/malota/44126
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://zjarr.tv/wp-content/uploads/2016/02/logo2.png", Zjarr TV
+http://live.softservicex.com:9100/mark/malota/44197
+#EXTINF:0 type="stream" channelId="1290" tvg-logo="http://ulango.tv/uploads/channels/3788185/logo_in%20cinemania.png", IN TV
+http://live.softservicex.com:9100/mark/malota/44156
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png", T HD
+http://live.softservicex.com:9100/mark/malota/44036
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png", Film Aksion
+http://live.softservicex.com:9100/mark/malota/44029
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png", Film Autor
+http://live.softservicex.com:9100/mark/malota/44027
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png", Film Komedi
+http://live.softservicex.com:9100/mark/malota/44028
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png", Film Drame
+http://live.softservicex.com:9100/mark/malota/44026
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png", FILM Thriller
+http://live.softservicex.com:9100/mark/malota/44025
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png", EUROFILM
+http://live.softservicex.com:9100/mark/malota/44031
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png", Family HD
+http://live.softservicex.com:9100/mark/malota/44035
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png", Film Hits
+http://live.softservicex.com:9100/mark/malota/44030
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png", Stinet
+http://live.softservicex.com:9100/mark/malota/44052
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png", Film Nje HD
+http://live.softservicex.com:9100/mark/malota/44034
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png", Film Dy HD
+http://live.softservicex.com:9100/mark/malota/44033
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS AKSION
+http://live.softservicex.com:9100/mark/malota/44008
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS COMEDY
+http://live.softservicex.com:9100/mark/malota/43994
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS DRAMA
+http://live.softservicex.com:9100/mark/malota/43995
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS GOLD 1 HD
+http://live.softservicex.com:9100/mark/malota/44004
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS GOLD 2 HD
+http://live.softservicex.com:9100/mark/malota/44003
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS GOLD 3 HD
+http://live.softservicex.com:9100/mark/malota/44002
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS GOLD 4 HD
+http://live.softservicex.com:9100/mark/malota/44001
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS PREMIER 1 HD
+http://live.softservicex.com:9100/mark/malota/44000
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS PREMIER 2 HD
+http://live.softservicex.com:9100/mark/malota/43999
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS PREMIER 3 HD
+http://live.softservicex.com:9100/mark/malota/43998
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS PREMIER 4 HD
+http://live.softservicex.com:9100/mark/malota/43997
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS HINDI HD
+http://live.softservicex.com:9100/mark/malota/43993
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", Ks Histori HD
+http://live.softservicex.com:9100/mark/malota/44082
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS HORROR
+http://live.softservicex.com:9100/mark/malota/44007
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS HUMOR HD
+http://live.softservicex.com:9100/mark/malota/44005
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS ISLAM TV
+http://live.softservicex.com:9100/mark/malota/43911
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS MUZIK HD
+http://live.softservicex.com:9100/mark/malota/44183
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS POPULLORE HD
+http://live.softservicex.com:9100/mark/malota/44184
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS PRANKS
+http://live.softservicex.com:9100/mark/malota/43992
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS SERIAL
+http://live.softservicex.com:9100/mark/malota/44006
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS SERIES HD
+http://live.softservicex.com:9100/mark/malota/43996
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="", KS SHQIP
+http://live.softservicex.com:9100/mark/malota/44009
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png", EXPLORER Natyra
+http://live.softservicex.com:9100/mark/malota/44085
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png", EXPLORER Shkence
+http://live.softservicex.com:9100/mark/malota/44086
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png", EXPLORER Shkence KS
+http://live.softservicex.com:9100/mark/malota/44083
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png", EXPLORER Histori
+http://live.softservicex.com:9100/mark/malota/44084\
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%20News.png", SuperSport News
+http://live.softservicex.com:9100/mark/malota/44426
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png", SuperSport 1 SD
+http://live.softservicex.com:9100/mark/malota/44395
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png", SuperSport 2 HD
+http://live.softservicex.com:9100/mark/malota/44425
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png", SuperSport 2 SD
+http://live.softservicex.com:9100/mark/malota/44394
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png", SuperSport 3 HD
+http://live.softservicex.com:9100/mark/malota/44424
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png", SuperSport 3 SD
+http://live.softservicex.com:9100/mark/malota/44393
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png", SuperSport 4 HD
+http://live.softservicex.com:9100/mark/malota/44423
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png", SuperSport 4 SD
+http://live.softservicex.com:9100/mark/malota/44392
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png", SuperSport 5 HD
+http://live.softservicex.com:9100/mark/malota/44422
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png", SuperSport 6 HD
+http://live.softservicex.com:9100/mark/malota/44421
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%207.png", SuperSport 7 HD
+http://live.softservicex.com:9100/mark/malota/44420
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png", TringSport 1 HD
+http://live.softservicex.com:9100/mark/malota/44415
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png", TringSport 1 SD
+http://live.softservicex.com:9100/mark/malota/44399
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png", TringSport 2 HD
+http://live.softservicex.com:9100/mark/malota/44414
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png", TringSport 2 SD
+http://live.softservicex.com:9100/mark/malota/44398
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png", TringSport 3 HD
+http://live.softservicex.com:9100/mark/malota/44413
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png", TringSport 3 SD
+http://live.softservicex.com:9100/mark/malota/44397
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png", TringSport 4 HD
+http://live.softservicex.com:9100/mark/malota/44412
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png", TringSport 4 SD
+http://live.softservicex.com:9100/mark/malota/44396
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/rtshsport.png", RTSH Sport
+http://live.softservicex.com:9100/mark/malota/44407
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
+http://live.softservicex.com:9100/mark/malota/44405
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/7/77/Eurosport_2_HD_%282015-.n.v.%29.png/revision/latest?cb=20170610180908", Eurosport 2
+http://live.softservicex.com:9100/mark/malota/44404
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://cdn.worldvectorlogo.com/logos/extreme-sports-channel.svg", Extreme Sports
+http://live.softservicex.com:9100/mark/malota/44403
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://s1.dmcdn.net/PFRSv/360x360-png/NkS.jpg", TeleSport
+http://live.softservicex.com:9100/mark/malota/44406
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Discovery_Science_HD.svg/revision/latest?cb=20171113181233", Discovery Science HD
+http://live.softservicex.com:9100/mark/malota/44073
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Discovery_Science_HD.svg/revision/latest?cb=20171113181233", Discovery Science
+http://live.softservicex.com:9100/mark/malota/44074
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png", Discovery World
+http://live.softservicex.com:9100/mark/malota/44070
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg", Fox
+http://live.softservicex.com:9100/mark/malota/44047
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/Fox_Crime_logo.svg/revision/latest?cb=20171230124159", Fox Crime
+http://live.softservicex.com:9100/mark/malota/44045
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", FoX Movies
+http://live.softservicex.com:9100/mark/malota/44044
+#EXTINF:0 type="stream" channelId="801" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png", Tring 3 plus
+http://live.softservicex.com:9100/mark/malota/44053
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png", Tring Action
+http://live.softservicex.com:9100/mark/malota/44015
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png", Tring Comedy
+http://live.softservicex.com:9100/mark/malota/44014
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png", Tring Fantasy
+http://live.softservicex.com:9100/mark/malota/44013
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png", Tring History
+http://live.softservicex.com:9100/mark/malota/44079
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png", Tring Kids
+http://live.softservicex.com:9100/mark/malota/44132
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png", Tring Life
+http://live.softservicex.com:9100/mark/malota/44012
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png", Living HD
+http://live.softservicex.com:9100/mark/malota/44042
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png", Jolly HD
+http://live.softservicex.com:9100/mark/malota/44020
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Muse.png", Muse
+http://live.softservicex.com:9100/mark/malota/44049
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png", Tring Planet
+http://live.softservicex.com:9100/mark/malota/44080
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png", Tring Shqip
+http://live.softservicex.com:9100/mark/malota/44018
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Smile.png", Smile
+http://live.softservicex.com:9100/mark/malota/44050
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Sofia.png", Sofia
+http://live.softservicex.com:9100/mark/malota/44131
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png", Tring Super
+http://live.softservicex.com:9100/mark/malota/44016
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/7/7d/Tring_Tring_Logo.png/revision/latest?cb=20161025101126", Tring Tring
+http://live.softservicex.com:9100/mark/malota/44133
+#EXTINF:0 type="stream" channelId="-1", Alb Action HD
+http://live.softservicex.com:9100/mark/malota/43971
+#EXTINF:0 type="stream" channelId="-1", Alb Comedy
+http://live.softservicex.com:9100/mark/malota/43975
+#EXTINF:0 type="stream" channelId="-1", Alb Film
+http://live.softservicex.com:9100/mark/malota/43972
+#EXTINF:0 type="stream" channelId="-1", Alb Folk HD
+http://live.softservicex.com:9100/mark/malota/43936
+#EXTINF:0 type="stream" channelId="-1", ALB HINDI HD
+http://live.softservicex.com:9100/mark/malota/43969
+#EXTINF:0 type="stream" channelId="-1", Alb Hits
+http://live.softservicex.com:9100/mark/malota/43943
+#EXTINF:0 type="stream" channelId="-1", ALB Humor 1 HD
+http://live.softservicex.com:9100/mark/malota/43967
+#EXTINF:0 type="stream" channelId="-1", ALB Humor 2 HD
+http://live.softservicex.com:9100/mark/malota/43966
+#EXTINF:0 type="stream" channelId="-1", ALB UK HD
+http://live.softservicex.com:9100/mark/malota/43965
+#EXTINF:0 type="stream" channelId="-1", ALB WESTERN HD
+http://live.softservicex.com:9100/mark/malota/43968
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Aksion.png", SHQIPTV Aksion
+http://live.softservicex.com:9100/mark/malota/43954
+#EXTINF:0 type="stream" channelId="-1", SHQIPTV Cinema
+http://live.softservicex.com:9100/mark/malota/43957
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Film.png", SHQIPTV Film
+http://live.softservicex.com:9100/mark/malota/43957
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Horror.png", SHQIPTV Horror
+http://live.softservicex.com:9100/mark/malota/43960
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Humor.png", SHQIPTV Humor
+http://live.softservicex.com:9100/mark/malota/43959
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Jeta.png", SHQIPTV Jeta
+http://live.softservicex.com:9100/mark/malota/43940
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Komedi HD
+http://live.softservicex.com:9100/mark/malota/43961
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Mimi HD
+http://live.softservicex.com:9100/mark/malota/44123
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.albepg.com/tvlogi/SHQIPTV%20Stupcat.png", SHQIPTV Stupcat
+http://live.softservicex.com:9100/mark/malota/43958
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/RadioTelevizioni21Logo.png/revision/latest?cb=20161106193218", RTV 21 HD
+http://live.softservicex.com:9100/mark/malota/44254
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/RadioTelevizioni21Logo.png/revision/latest?cb=20161106193218", RTV 21 Toksor
+http://live.softservicex.com:9100/mark/malota/44255
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="http://albepg.com/tvlogi/21%20Junior.png", RTV 21 HD JUNIOR
+http://live.softservicex.com:9100/mark/malota/44092
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="http://albepg.com/tvlogi/RTV%2021%20MK.png", RTV 21 Maqedonia
+http://live.softservicex.com:9100/mark/malota/44220
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="https://lh5.googleusercontent.com/-IgcUfG8IaDQ/UmKobasLTnI/AAAAAAAAAzk/zDgf0R52PwU/w259-h216-no/rtv-21-mix-hd.png", RTV 21 Mix HD
+http://live.softservicex.com:9100/mark/malota/44209
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="http://logowow.net/logos/AIANZgbyl.png", RTV 21 PLUS HD
+http://live.softservicex.com:9100/mark/malota/44153
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="https://lh3.googleusercontent.com/-QvbIcJrqEJc/UmKnq4ltAnI/AAAAAAAAAzc/pzsx62PXC7Y/w259-h216-no/rtv-21-popullore-hd.png", RTV 21 POPULLORE HD
+http://live.softservicex.com:9100/mark/malota/44162
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="https://img.webme.com/pic/o/opojatv/rtvislam.png", RTV Islam
+http://live.softservicex.com:9100/mark/malota/43907
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="", RTV SHARRI HD
+http://live.softservicex.com:9100/mark/malota/44161
+#EXTINF:0 tvg-id="RTV21HD.al" tvg-logo="http://shkabaj.net/tv/img/tv_zik.png", Rtv Zeri Danimarke
+http://live.softservicex.com:9100/mark/malota/44149
